@@ -1,0 +1,64 @@
+/**
+    Symari Butts
+    Project 3 **/
+
+body {
+    width: 100%;
+    margin: 0 auto;
+    font-family:'Berlin Sans', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#title {
+    background-color: rgb(110, 110, 13); /*Change later*/
+    text-align: center;
+    color: white;
+    font-family: 'Bradley Hand ITC', 'Times New Roman', Times, serif;
+}
+
+header {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 30px;
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+}
+
+button {
+    font-family:'Berlin Sans', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: .5rem;
+    font-size: 18px;  
+}
+
+button:hover {
+    background-color: rgb(84, 78, 74);
+    color: white;
+  }
+
+#cuisines {
+    background-color: rgb(171, 76, 22);
+    color: white;
+    width: 32%;
+}
+
+#dishes {
+    width: 32%;
+}
+
+#lowerHalf {
+    display: flex;
+    margin: 0 auto;
+}
+
+#ingred {
+    font-size: 20px;
+    background-color: rgb(171, 76, 22);
+    width: 32%;
+    color: white;
+}
